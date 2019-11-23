@@ -1,0 +1,5 @@
+Ranault Laguna,1900,2002,500,universalas
+Dodge Challenger,5700,2011,15950,coupe
+Nissan Micra,1198,2013,3900,hecbekas
+BMW 520,2000,2011,19600,sedanas
+Volvo XC60,2500,2012,17000,visureigis

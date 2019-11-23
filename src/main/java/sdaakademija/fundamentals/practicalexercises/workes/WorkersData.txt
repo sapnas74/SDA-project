@@ -1,0 +1,4 @@
+Petras Vertelka,1346,45,Male
+Aiste Dumbala, 3209,33,Female
+Jonas Murana,2300,24,Male
+Juste Selana,1772,60,Female

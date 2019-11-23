@@ -1,0 +1,3 @@
+Strelka,14,Red
+Belka,12,Green
+Thunder,7,Yellow

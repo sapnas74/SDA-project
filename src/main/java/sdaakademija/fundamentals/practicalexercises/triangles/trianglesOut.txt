@@ -1,0 +1,5 @@
+Trikampio tipas : bukas Perimetras : 6
+Trikampio tipas : bukas Perimetras : 16
+Trikampio tipas : bukas Perimetras : 171
+Trikampio tipas : lygiakrastis Perimetras : 36
+Trikampio tipas : lygiasonis Perimetras : 78
