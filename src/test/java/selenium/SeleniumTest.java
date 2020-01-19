@@ -1,4 +1,4 @@
-package test.java.selenium;
+package selenium;
 
 import org.junit.After;
 import org.junit.Assert;

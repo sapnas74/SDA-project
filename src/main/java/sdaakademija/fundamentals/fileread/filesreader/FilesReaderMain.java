@@ -1,3 +1,4 @@
+/*
 package sdaakademija.fundamentals.fileread.filesreader;
 
 import java.io.IOException;
@@ -17,3 +18,6 @@ public class FilesReaderMain {
         }
     }
 }
+
+
+ */
