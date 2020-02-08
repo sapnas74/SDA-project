@@ -1,0 +1,16 @@
+{
+  "name": "george",
+  "age": 24,
+  "position": [
+    "CTO",
+    "Founder",
+    "Director"
+  ],
+  "skills": [
+    "Java",
+    "Kotlin",
+    "Python",
+    "JS"
+  ],
+  "salary": {}
+}
